@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Urrego</h1>
 <h2 align="center">A Business Engineer who decide to switch to the Tech World </h2>
 <h3 align="center">I started my journey as a software developer on september 2020 </h3>
-
+<br>
+<br>
+<br>
 - 🔭 I’m currently studying on [Holberton](https://www.holbertonschool.com/)
 
 - 🌱 I’m currently learning **JS, nodejs**
