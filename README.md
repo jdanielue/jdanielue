@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/jdanielue" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="jdanielue" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jdanielue" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="jdanielue" height="30" width="40" /></a>
-<a href="https://instagram.com/jdanielue" target="blank"><img align="center" src="https://img.icons8.com/windows/452/instagram-new.png" alt="jdanielue" height="30" width="40" /></a>
+<a href="https://instagram.com/jdanielue" target="blank"><img align="center" src="https://pbs.twimg.com/media/EeLBSNQXsAA3Q5o.png" alt="jdanielue" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
