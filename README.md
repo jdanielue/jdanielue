@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Urrego</h1>
+<h2 align="center">I started my journey as a developer just 7 months ago </h2>
 <h3 align="center">A curious software developer</h3>
 
 - 🔭 I’m currently studying on [Holberton](https://www.holbertonschool.com/)
 
 - 🌱 I’m currently learning **JS, nodejs**
 
-- 👯 I’m looking to collaborate on **capstone project**
+- 👯 I’m looking to collaborate on **a project that can give me experience and knowledge**
 
-- 💬 Ask me about **c, bash, Python, MysSQL**
+- 💬 I have been learning during the last months **C, Bash, Python, MysSQL**
 
 - 📫 How to reach me **jdurregoe@gmail.com**
 
