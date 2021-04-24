@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdanielue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="jdanielue" height="30" width="40" /></a>
+<a href="https://twitter.com/jdanielue" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shareicon.net%2Flogo-twitter-bird-twitter-logo-887584&psig=AOvVaw2KqEC744PQPn827ObYpy5X&ust=1619393079711000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKizh72DmPACFQAAAAAdAAAAABAI" alt="jdanielue" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jdanielue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jdanielue" height="30" width="40" /></a>
 <a href="https://instagram.com/jdanielue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="jdanielue" height="30" width="40" /></a>
 </p>
