@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jdanielue" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shareicon.net%2Flogo-twitter-bird-twitter-logo-887584&psig=AOvVaw2KqEC744PQPn827ObYpy5X&ust=1619393079711000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKizh72DmPACFQAAAAAdAAAAABAI" alt="jdanielue" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jdanielue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jdanielue" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jdanielue" target="blank"><img align="center" src="https://camo.githubusercontent.com/67e045f0fb7eb8f83b9fe204212b222904c6caa915849f75542758fdb4b608c3/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d6573736167696e672d75692d636f6c6f722d7368617065732d322d667265652f3132382f736f6369616c2d6c696e6b6564696e2d636972636c652d3531322e706e67" alt="jdanielue" height="30" width="40" /></a>
 <a href="https://instagram.com/jdanielue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="jdanielue" height="30" width="40" /></a>
 </p>
 
