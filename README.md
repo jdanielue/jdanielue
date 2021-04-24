@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Urrego</h1>
-<h2 align="center">I started my journey as a developer just 7 months ago </h2>
-<h3 align="center">A curious software developer</h3>
+<h2 align="center">I started my journey as a software developer on september 2020 </h2>
 
 - 🔭 I’m currently studying on [Holberton](https://www.holbertonschool.com/)
 
