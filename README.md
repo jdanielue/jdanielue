@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **a project that can give me experience and knowledge**
 
-- 💬 I have been learning during the last months **C, Bash, Python, MysSQL**
+- 💬 I have been learning during the past few months **C, Bash, Python, MysSQL**
 
 - 📫 How to reach me **jdurregoe@gmail.com**
 
