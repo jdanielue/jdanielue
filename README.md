@@ -13,6 +13,7 @@
 - 📫 How to reach me **jdurregoe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 [![Twitter Badge](https://img.shields.io/badge/-@jdanielue-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jdanielue "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-jdanielue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/jdanielue/)
 [![Instagram Badge](https://img.shields.io/badge/-dreamahu_-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wisvem/)](https://instagram.com/dreamahu_)
